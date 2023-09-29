@@ -1,5 +1,5 @@
 [{
-  "file": "/Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp",
-  "directory": "/Users/sete/Documents/GitHub/EEDD/Workspace/Prueba",
-  "command": "/usr/bin/g++ -c /Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp -o /Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\ivanp\\Documents\\GitHub\\Trabajo estructuras de datos\\EEDD\\Workspace\\Prueba\\main.cpp",
+  "directory": "C:\\Users\\ivanp\\Documents\\GitHub\\Trabajo estructuras de datos\\EEDD\\Workspace\\Prueba",
+  "command": "g++ -c \"C:\\Users\\ivanp\\Documents\\GitHub\\Trabajo estructuras de datos\\EEDD\\Workspace\\Prueba\\main.cpp\" -o \"C:\\Users\\ivanp\\Documents\\GitHub\\Trabajo estructuras de datos\\EEDD\\Workspace\\Prueba\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

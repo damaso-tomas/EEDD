@@ -1,5 +1,17 @@
 [{
+  "file": "/Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/Persona.hpp",
+  "directory": "/Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13",
+  "command": "/usr/bin/g++ -c /Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/Persona.hpp -o /Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/Persona.hpp.o -target arm64-apple-darwin23.0.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/Persona.cpp",
+  "directory": "/Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13",
+  "command": "/usr/bin/g++ -c /Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/Persona.cpp -o /Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/Persona.cpp.o -target arm64-apple-darwin23.0.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/main.cpp",
+  "directory": "/Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13",
+  "command": "/usr/bin/g++ -c /Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/main.cpp -o /Users/sete/Documents/GitHub/EEDD/Workspace/Ejemplo_13/main.cpp.o -target arm64-apple-darwin23.0.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp",
   "directory": "/Users/sete/Documents/GitHub/EEDD/Workspace/Prueba",
-  "command": "/usr/bin/g++ -c /Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp -o /Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "/usr/bin/g++ -c /Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp -o /Users/sete/Documents/GitHub/EEDD/Workspace/Prueba/main.cpp.o -target arm64-apple-darwin23.0.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

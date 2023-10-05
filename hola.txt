@@ -1,1 +1,1 @@
-hola que tal
+hola que talDividir el proyecto en dos carpetas:
